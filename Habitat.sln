@@ -171,6 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Metadata.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Language.Specflow", "src\Project\Habitat\specs\Feature.Language\Sitecore.Feature.Language.Specflow.csproj", "{99812DA7-6CEF-4971-ACEB-DD32AAD304B6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MvcViewModel", "MvcViewModel", "{C166C000-484F-4F89-A20F-8A486FEECCEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -647,5 +649,6 @@ Global
 		{097A482B-CD89-4BA9-939F-B232D35AF8E1} = {836F4115-EB6C-468A-AE65-6F123B0376E8}
 		{22B66A8A-9155-4961-B439-7CC2C0665AED} = {AE1154F1-2C89-4AEC-B7B3-1902D73F037C}
 		{99812DA7-6CEF-4971-ACEB-DD32AAD304B6} = {AE1154F1-2C89-4AEC-B7B3-1902D73F037C}
+		{C166C000-484F-4F89-A20F-8A486FEECCEC} = {D2CBE02E-6AA7-4343-9A01-891F971A17F5}
 	EndGlobalSection
 EndGlobal
